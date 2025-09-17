@@ -1,3 +1,7 @@
+
+用flowith或者notion
+尤其是flowus的 和简易云接口这个东西。搞一下筛选信息茧房
+
 <div align="center">
 
 # 🎯TrendRadar
