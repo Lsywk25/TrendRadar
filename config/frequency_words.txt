@@ -1,82 +1,46 @@
-胖东来
-于东来
-
 DeepSeek
-梁文锋
+Openai
+Seedream
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+chatgpt
+openai
+sora
+codex
 
-比亚迪
-王传福
+笔记
+笔记软件
+Notion
+Youmind
 
-大疆
-DJI
+claude
+openrouter
+Anthropic
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
+新能源
+电动车
 
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
+自动化
+工作流
 
-claude
-Anthropic
+人物
+传记
 
-iphone
-ipad
-mac
-ios
+读书
+历史
+
+政治
+
+投资
+中国经济
+经济周期
 
 ai
 !gai
@@ -89,14 +53,17 @@ ai
 国产
 中国
 
+政治
+贸易
 美国
-日本
-韩国
 
-芯片
-光刻机
+战争
+冲突
+地区冲突
 
 科技
+芯片
+光刻机
 
 核能
 
@@ -104,10 +71,3 @@ ai
 雅鲁藏布江
 
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
